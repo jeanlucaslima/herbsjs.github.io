@@ -27,7 +27,7 @@ To help us in this process, we are using a [`herbs-cli`](https://github.com/herb
 
 ## Requirements
 
-- Previous Javascript knowlegds;
+- Previous Javascript knowlegde;
 - Be familiar Domain Driven Design (DDD) and Clean Architecture;
 - [Node.js](https://nodejs.org/en/) installed in LTS version, prefered >= v.14;
 - herbs-cli installed globally;
